@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627837520 source:c:\users\hp\desktop\c project\hotel finalization\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

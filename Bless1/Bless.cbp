@@ -1,0 +1,4 @@
+char name=[]
+print("Hello")
+scanf("enter your name %c",&name)
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625563438 source:c:\users\hp\documents\c programming\week6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1625564194 source:c:\users\hp\documents\c programming\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

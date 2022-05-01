@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627753104 source:c:\users\hp\desktop\c project\hostel management\main.c
+	<stdio.h>
+	<stdlib.h>
+
